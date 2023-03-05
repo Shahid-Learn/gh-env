@@ -1,0 +1,7 @@
+{
+    "yaml.schemas": {
+        "kubernetes": "*.yaml",
+        "file:///c%3A/Users/DELL/.vscode/extensions/docsmsft.docs-yaml-0.2.9/out/yaml-support/toc.schema.json": "/toc\\.yml/i",
+        "https://json.schemastore.org/github-workflow.json": "file:///c%3A/git/github-actions-lab/gh-env/.github/workflows/deploy.yml"
+    }
+}
